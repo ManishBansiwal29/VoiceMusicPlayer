@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "983116270340",
+    "project_id": "facechat---video-call",
+    "storage_bucket": "facechat---video-call.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983116270340:android:9d1d414fd624006b815e51",
+        "android_client_info": {
+          "package_name": "com.manish.facechat_videocall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983116270340-o16qv6kt0ildcosak6hkrreiscmcvdfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-hEBZ7tkiMJeUjTS0ov1_-qfaxokJkf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983116270340-o16qv6kt0ildcosak6hkrreiscmcvdfa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
