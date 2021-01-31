@@ -29,7 +29,7 @@ import com.google.android.gms.maps.model.MarkerOptions;
 import java.util.PrimitiveIterator;
 
 public class MainActivity extends AppCompatActivity implements OnMapReadyCallback{
-    private final int DEFAULT_ZOOM = 16;
+
     private final double GYAN_VIHAR_LATITUDE = 26.809260798405976;
     private final double GYAN_VIHAR_LONGITUDE = 75.86128786776558;
     public static final int PERMISSION_REQUEST_CODE = 9001;
