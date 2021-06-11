@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Geofences</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="GEO_ID">GEOFENCE_ID</string>
+</resources>
